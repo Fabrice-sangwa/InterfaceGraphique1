@@ -74,6 +74,7 @@ public class MyApp extends JFrame{
         return  panel;
     }
 
+
     public static void main(String[] args) {
 
         try {
